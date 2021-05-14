@@ -1,8 +1,5 @@
 # Tarama-TOOLU
 Güncel tarama toolu
-    
-#!/usr/bnr/env python3
-
 import os
 
 while True:
